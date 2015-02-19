@@ -10,8 +10,12 @@ Plugin installation and setup
 -----------------------------
 
 1. Copy the plugin directory into the plugins directory (make sure the name is redmine_per_project_formatting)
+2. Start Redmine
 
-1. Start Redmine
+How it looks like?
+------------------
+
+![Screenshot](https://raw.githubusercontent.com/kiv-redmine/redmine_improved_searchbox/master/screenshot.png)
 
 How to run build on travis?
 ---------------------------
