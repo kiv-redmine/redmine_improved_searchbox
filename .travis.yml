@@ -11,7 +11,7 @@ env:
   - REDMINE_VERSION=2.6.1 VERBOSE=yes
 
 script:
-  - export PLUGIN=redmine_improved-searchbox
+  - export PLUGIN=redmine_improved_searchbox
   - export WORKSPACE=$(pwd)/workspace
   - export PATH_TO_PLUGIN=$(pwd)
   - export PATH_TO_REDMINE=$WORKSPACE/redmine
